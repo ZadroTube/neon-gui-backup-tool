@@ -210,7 +210,7 @@ export default function App() {
           background: 'rgba(0,5,15,0.8)',
         }}>
           <span style={{ fontFamily: 'Share Tech Mono, monospace', fontSize: '10px', color: 'rgba(0,255,232,0.2)' }}>
-            NEONBACKUP © 2025 — Windows Backup Manager
+            ZTBACKUP © 2026 — ZadroTube's Windows Backup Manager
           </span>
           <div className="flex items-center gap-2">
             <div className={`status-dot ${backupStatus === 'running' ? 'running' : backupStatus === 'error' ? 'error' : 'idle'}`} style={{ width: 6, height: 6 }} />

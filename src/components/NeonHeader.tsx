@@ -54,7 +54,7 @@ export default function NeonHeader({ activeTab, onTabChange, status }: Props) {
               textShadow: '0 0 10px #00ffe8, 0 0 20px #00ffe8',
               letterSpacing: '4px',
             }}>
-              NEON<span style={{ color: '#ff00de', textShadow: '0 0 10px #ff00de' }}>BACKUP</span>
+              ZT<span style={{ color: '#ff00de', textShadow: '0 0 10px #ff00de' }}>BACKUP</span>
             </div>
             <div style={{
               fontFamily: 'Share Tech Mono, monospace',
@@ -62,7 +62,7 @@ export default function NeonHeader({ activeTab, onTabChange, status }: Props) {
               color: 'rgba(0,255,232,0.4)',
               letterSpacing: '3px',
             }}>
-              WINDOWS BACKUP MANAGER v2.0
+              ZadroTube's WINDOWS BACKUP MANAGER v2.0
             </div>
           </div>
         </div>
